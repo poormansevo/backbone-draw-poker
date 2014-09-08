@@ -1,2 +1,4 @@
-backbone-draw-poker
-===================
+backbone-poker
+==============
+
+Backbone-Poker
